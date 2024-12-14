@@ -1,0 +1,9 @@
+Teacher,Day,Period,Subject,Availability
+Teacher A,Monday,1,Math,Yes
+Teacher B,Monday,2,Science,Yes
+Teacher C,Monday,1,English,Yes
+Teacher D,Monday,2,Math,Yes
+Teacher A,Tuesday,1,Math,Yes
+Teacher B,Tuesday,2,Science,No
+Teacher C,Tuesday,1,English,Yes
+Teacher D,Tuesday,2,History,Yes
